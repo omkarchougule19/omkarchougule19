@@ -1,8 +1,5 @@
 ## About Me:
-👋 Hi, I’m a Java Backend Developer specializing in Spring Boot microservices with over 3 years of hands-on experience in building scalable and efficient systems. My expertise includes working with Java 11, REST APIs, Microservices, and utilizing tools such as Docker, Jenkins, OpenShift, and Git. 
-I’ve worked on various projects, including CRM tools and enterprise archiving solutions like Citi's Fund Transfer Portal. Passionate about clean architecture, design patterns, and ensuring seamless integration across systems.
-
-Currently working at Infosys, aiming to solve complex backend challenges. Let’s connect and collaborate on building efficient solutions!
+👋 Hi, I’m an MS in Information Management candidate at UIUC transitioning into Product after 4+ years as a Software Engineer. I enjoy working at the intersection of users, business, and engineering- using my technical background to scope problems, evaluate trade-offs, and drive clear product decisions. I’m looking for Product roles where strong execution, data-informed thinking, and close collaboration with engineering teams lead to real impact.
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omkarchougule23/) 
